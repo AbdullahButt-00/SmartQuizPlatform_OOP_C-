@@ -11,13 +11,12 @@
 >Open Run_Project folder
 >run Run_main.cpp through simple g++ compile command 
 i.e :
-**g++ -o m Run_main.cpp
-**
->**./m
-**
+>g++ -o m Run_main.cpp
+>./m
+
 >**Note:**
 >example.csv contains students' data
 >t.csv contains Teacher data
 >.txt files are Question Banks for various computing courses
->Read_Code: folder is for general understanding of code containing main,header & functions files
+>Read_Code: folder is for general understanding of code containing main, header & functions files
 >Project_Report.odt : Project report.
